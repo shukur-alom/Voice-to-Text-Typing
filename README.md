@@ -34,15 +34,12 @@ If you encounter issues with the program not functioning as expected, consider t
 - Ensure you have an active internet connection.
 - If problems persist, feel free to contact the developers for assistance.
 
-## Dependencies
-- [pyautogui](https://pyautogui.readthedocs.io/en/latest/)
-- [speech_recognition](https://pypi.org/project/SpeechRecognition/)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-[Your Name]
+[Shukur Alam]
 
 ## Contact
-For questions or support, please contact [Your Email Address].
+For questions or support, please contact [shukuralom1234@gmail.com].
